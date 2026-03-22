@@ -99,7 +99,9 @@ Operations-Analytics-Project
 
 ├── Final_Report.pdf
 
-├── Data_Files
+├── MidTerm Report.pdf
+
+├── Proposal.pdf
 
 ├── Analysis_Sheets
 
